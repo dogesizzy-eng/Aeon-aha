@@ -1,0 +1,20 @@
+{
+  "item.aha.aha_staff": "Staff of the Joyous Aeon",
+  "effect.aha.elation_debt": "Elation Debt",
+  "entity.aha.aha_avatar": "Aha",
+  "entity.aha.aha_fx": "Aha Effect",
+  "key.categories.aha": "Aha Combat",
+  "key.aha.basic": "Basic Attack",
+  "key.aha.skill": "Skill",
+  "key.aha.ultimate": "Ultimate",
+  "key.aha.radial_menu": "Open Skill Radial Menu",
+  "death.attack.aha.quantum_elation": "%1$s was dissolved into endless laughter by %2$s",
+  "death.attack.aha.quantum_elation_pierce": "%1$s had their existence ridiculed away by %2$s",
+  "gui.aha.radial.cost": "Cost: %s Wish",
+  "gui.aha.radial.hint": "Aim at a mob, then click or press 1 / 2 / 3 / 4 / 5 (Technique needs no target)",
+  "key.aha.elation": "Elation Skill",
+  "key.aha.technique": "Technique: Misjudgment Dimension",
+  "death.attack.aha.quantum_elation_true": "%1$s was blown away by a rose of pure joy from %2$s",
+  "gui.aha.radial.punch": "Needs %s Punchlines",
+  "gui.aha.radial.technique": "Technique"
+}

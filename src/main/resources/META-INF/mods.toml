@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="aha"
+version="1.0.0"
+displayName="Aha: The Elation"
+description='''Aha combat mod built on GeckoLib.'''
+
+[[dependencies.aha]]
+modId="forge"
+mandatory=true
+versionRange="[47.3.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.aha]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.aha]]
+modId="geckolib"
+mandatory=true
+versionRange="[4.4.4,)"
+ordering="AFTER"
+side="BOTH"
